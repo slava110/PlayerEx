@@ -8,6 +8,8 @@
 
 PlayerEx is a Minecraft mod built using the Fabric ecosystem that adds RPG themed attributes to the game and the player. It is available to download from [Curseforge](https://www.curseforge.com/minecraft/mc-mods/playerex) and [Modrinth](https://modrinth.com/mod/playerex).
 
+Also it's kinda cool
+
 ### Content
 
 In addition to attributes, PlayerEx adds a levelling system and skill points to spend, enabled through a nonintrusive vanilla-styled gui accessible from the inventory or by hotkey. For further documentation, as well as how to use the PlayerEx API in your own project, please see the [wiki](https://github.com/CleverNucleus/PlayerEx/wiki).
